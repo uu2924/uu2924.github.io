@@ -7,6 +7,7 @@ categories:
 tags:
    -MSA DDD
 last_modified_at: 2022-09-23
+published: false
 ---
 
 > [도메인 주도 설계로 시작하는 마이크로서비스 개발] 책을 정리한 내용입니다.
